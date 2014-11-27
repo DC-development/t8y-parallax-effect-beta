@@ -1,0 +1,14 @@
+{
+  "name": "t8y-parallax-effect-beta",
+  "description": "Tryin to cops the glorius VW Emosite Prallax effect",
+  "version": "0.0.1",
+  "homepage": "http://dc-development.de",
+  "author": {
+    "name": "Philipp Sengelmann",
+    "url": "http://dc-development.de"
+  },
+  "main": ["js/parallax-effect.js"],
+  "dependencies": {
+    "jquery": "~1.9.1"
+  }
+}
